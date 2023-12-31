@@ -1,5 +1,5 @@
-# starknet-contract
-First Test for Starknet Smart Contract
+# Cairo Contract
+First Test for Cairo Contract
 
 # How To
 You will need to:
